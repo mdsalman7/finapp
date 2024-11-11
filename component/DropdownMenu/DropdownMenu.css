@@ -1,0 +1,27 @@
+.dropdown {
+  position: relative;
+}
+
+.dropdown-button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown-list {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  top: 100%;
+  left: 0;
+  width: 100px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-list li {
+  padding: 10px;
+  cursor: pointer;
+}

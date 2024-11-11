@@ -1,2 +1,0 @@
-# finapp
-financial app
